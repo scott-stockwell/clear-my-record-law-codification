@@ -1,6 +1,6 @@
 # Any class A felony offense (Can Not be expunged)
 
-We will look at the Level &. ... to determine how the charge was clasified
+We will look at the Charge Type & Class to determine how the charge was clasified
 
 ## Data Source
 
