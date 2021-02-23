@@ -1,4 +1,4 @@
-# Any class A felony offense
+# Any class A felony offense (Can Not be expunged)
 
 We will look at the Level &. ... to determine how the charge was clasified
 
