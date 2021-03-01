@@ -1,10 +1,10 @@
 # Any felony offense where death is an element of the offense
 
-## Statue
+## Law
 
 ## Source
 
-## English
+## Plan Speak
 
 From the statutes we can determine if
 * death is an element
