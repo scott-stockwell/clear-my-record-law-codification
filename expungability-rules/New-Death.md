@@ -5,9 +5,6 @@
 Any felony offense where death is an element of the offense
 
 
-
-
-
 ## Plan Speak
 
 ## Something
@@ -22,7 +19,25 @@ And charge type is a Felony
 
 Down Grading....
 
-## Data Source of Data
+## Information Needed
+
+We neet to know:
+
+1. If the charge is a felony.  The database currently has * charges.conviction_charge_type: Felony, Misdemeanor, ...
+2. If the charge resulted in a death.  
+   * Statutes.  565.020 through .034 are ones that we should looks at (Beth)
+   * Other list we created
+   * The statute normaly has the text "casues the death of another/any person"
+
+Senario:
+
+If they are recklessly  driving their motor scooter and kill someone, they would be charged with:
+* Recklessly driving their motor scooter
+* One of the "causes the death of..." from 565.020 through .034
+
+### Charge is a felony
+
+
 
 ### Case information
 MSHP - is the best source of what is charged.
@@ -33,15 +48,13 @@ CaseNet - "Charges Judgement and Sentences". They do have the statute number
 
 ### Statute
 
-Look through statute.  565.020 through .034
 
-Normaly has the text "casues the death of another/any person"
 
 If they are reclusly driving their moter scutor they would also charge .020 to .034
 
 ## Database
 
-* charges.conviction_charge_type: Felony, Misdemeanor, ...
+
 * charges.conviction_class_type: A through X
 * ADD statute.death_is_a_element
 
