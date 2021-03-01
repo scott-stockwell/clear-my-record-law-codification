@@ -18,6 +18,10 @@ We neet to know:
 
 1. If the charge is convicted as a felony.
 2. If the charge resulted in a death.  
+
+Assumptions:
+
+* This applies to the charge and does not disqualify the case.
   
 Senario:
 
