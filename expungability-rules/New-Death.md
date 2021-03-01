@@ -41,12 +41,12 @@ When displaying a statute that is not elagible
 ## Database
 
 * Charge is a felony.  The database currently has 
-   * [charges.conviction_charge_type](https://github.com/codeforkansascity/clear-my-record-law-codification/tree/main/database-elements): Felony, Misdemeanor, ...
+   * [`charges.conviction_charge_type`](https://github.com/codeforkansascity/clear-my-record-law-codification/tree/main/database-elements): Felony, Misdemeanor, ...
 * The statute has death as an element
-   * ADD statute.death_is_a_element
+   * ADD `statute.death_is_a_element`
 
 
-### Add statues.death_is_a_element flag
+### Add `statues.death_is_a_element` flag
 
 Flag has the following options:
 
