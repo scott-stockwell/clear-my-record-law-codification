@@ -4,13 +4,9 @@
 
 Any felony offense where death is an element of the offense
 
-## Source
 
-Look through statute.  565.020 through .034
 
-Normaly has the text "casues the death of another/any person"
 
-If they are reclusly driving their moter scutor they would also charge .020 to .034
 
 ## Plan Speak
 
@@ -28,11 +24,20 @@ Down Grading....
 
 ## Data Source of Data
 
+### Case information
 MSHP - is the best source of what is charged.
 [PLEASE VERIFY]
 
 CaseNet - "Charges Judgement and Sentences". They do have the statute number
 [PLEASE VERIFY]
+
+### Statute
+
+Look through statute.  565.020 through .034
+
+Normaly has the text "casues the death of another/any person"
+
+If they are reclusly driving their moter scutor they would also charge .020 to .034
 
 ## Database
 
