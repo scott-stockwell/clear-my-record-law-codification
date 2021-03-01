@@ -23,8 +23,9 @@ Down Grading....
 
 We neet to know:
 
-1. If the charge is a felony.  The database currently has * charges.conviction_charge_type: Felony, Misdemeanor, ...
-2. If the charge resulted in a death.  
+1. If the charge is a felony.  The database currently has 
+   * [charges.conviction_charge_type](https://github.com/codeforkansascity/clear-my-record-law-codification/tree/main/database-elements): Felony, Misdemeanor, ...
+3. If the charge resulted in a death.  
    * Statutes.  565.020 through .034 are ones that we should looks at (Beth)
    * Other list we created
    * The statute normaly has the text "casues the death of another/any person"
@@ -39,12 +40,7 @@ If they are recklessly  driving their motor scooter and kill someone, they woul
 
 
 
-### Case information
-MSHP - is the best source of what is charged.
-[PLEASE VERIFY]
 
-CaseNet - "Charges Judgement and Sentences". They do have the statute number
-[PLEASE VERIFY]
 
 ### Statute
 
