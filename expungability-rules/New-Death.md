@@ -2,62 +2,71 @@
 
 ## Law
 
-Any felony offense where death is an element of the offense
+610.140 2 (4) Any felony offense where death is an element of the offense
 
 
 ## Plan Speak
 
-## Something
+## Training
 
-From the statutes we can determine if
-* death is an element
-* death is NOT an element
-* Need to research by reading the statute 
-* Not determined
+*What we need to tell pro bono attornies* 
 
-And charge type is a Felony
-
-Down Grading....
 
 ## Information Needed
 
 We neet to know:
 
-1. If the charge is a felony.  The database currently has 
-   * [charges.conviction_charge_type](https://github.com/codeforkansascity/clear-my-record-law-codification/tree/main/database-elements): Felony, Misdemeanor, ...
-3. If the charge resulted in a death.  
-   * Statutes.  565.020 through .034 are ones that we should looks at (Beth)
-   * Other list we created
-   * The statute normaly has the text "casues the death of another/any person"
-
+1. If the charge is convicted as a felony.
+2. If the charge resulted in a death.  
+  
 Senario:
 
 If they are recklessly  driving their motor scooter and kill someone, they would be charged with:
-* Recklessly driving their motor scooter
+* Recklessly driving their motor scooter (Felony)
 * One of the "causes the death of..." from 565.020 through .034
 
-### Charge is a felony
+What happens if they "Down Grade" to a M?
 
 
+## UX
 
+When displaying a statute that is not elagible 
 
-
-### Statute
-
-
-
-If they are reclusly driving their moter scutor they would also charge .020 to .034
+"Can not expunge since charge is a felony and death is a element 610.140 2 (4)"
 
 ## Database
 
+* Charge is a felony.  The database currently has 
+   * [charges.conviction_charge_type](https://github.com/codeforkansascity/clear-my-record-law-codification/tree/main/database-elements): Felony, Misdemeanor, ...
+* The statute has death as an element
+   * ADD statute.death_is_a_element
 
-* charges.conviction_class_type: A through X
-* ADD statute.death_is_a_element
+
+### Add statues.death_is_a_element flag
+
+Flag has the following options:
+
+* death is an element
+* death is NOT an element
+* Need to research by reading the statute 
+* Not determined
+
+How to initalize?
+
+1. Set all to death is NOT an element
+2. Set known statutes with death is an element
+
+How to maintain?
+
+1. Have someone watch the changes in law
+2. Have lawyers look for errors (sanity check)
 
 ## Logic
 
 ```
 if charges.conviction_charge_type == Felony
-
+and statute.death_is_a_element is true
 Then
-   Charge is 
+   Charge cannot be expunged
+```
+
