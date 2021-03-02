@@ -22,6 +22,17 @@ Is the statute domestic assault?
 Is the statue a kidnapping. any in  (565.130, .....)?
    Is charges.conviction_charge_type a felony
        Cannot be expunged
+       
+       
+## Pattern
+
+If statute is a YYY
+and charges.conviction_charge_type is a WWW
+Then not elegiable.
+
+1. Create list of the statute numbers that match YYY
+2. Apply flag to statutes that YYY
+3. 
 
 ## Plan Speak
 
@@ -63,6 +74,9 @@ What happens if they "Down Grade" to a M?
 
 
 ## UX
+
+* Explain why it is not expungable and what the logic is.
+* Have a button to submit an issue or question.
 
 
 ## Database
