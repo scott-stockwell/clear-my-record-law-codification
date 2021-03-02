@@ -54,13 +54,12 @@ Flag has the following options:
 
 * death is an element
 * death is NOT an element
-* Need to research by reading the statute 
 * Not determined
 
 How to initalize?
 
-1. Set all to death is NOT an element
-2. Set known statutes with death is an element
+1. Set all statutes to death is NOT an element
+2. Set known statutes with death is an element to true.
 
 How to maintain?
 
