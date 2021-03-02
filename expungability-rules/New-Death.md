@@ -26,7 +26,7 @@ Assumptions:
 Senario:
 
 If they are recklessly  driving their motor scooter and kill someone, they would be charged with:
-* Recklessly driving their motor scooter (Felony)
+* Recklessly driving their motor scooter (Felony). does not mention anything about death
 * One of the "causes the death of..." from 565.020 through .034
 
 What happens if they "Down Grade" to a M?
