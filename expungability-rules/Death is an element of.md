@@ -5,7 +5,7 @@
 610.140.2(4) Any felony offense where death is an element of the offense
 
 
-## Plan Speak
+## Plain Speak
 
 ## Training
 
@@ -29,7 +29,7 @@ If they are recklessly  driving their motor scooter and kill someone, they woul
 * Recklessly driving their motor scooter (Felony). does not mention anything about death
 * One of the "causes the death of..." from 565.020 through .034
 
-What happens if they "Down Grade" to a M?
+What happens if they "Downgrade" to a M?
 
 
 ## UX
