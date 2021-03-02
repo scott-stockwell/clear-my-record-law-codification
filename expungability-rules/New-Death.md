@@ -48,6 +48,8 @@ When displaying a statute that is not elagible
 
 ### Add `statues.death_is_a_element` flag
 
+Statutes that death is a element of will most likly have the text "causes the death of..." and be in the range of from 565.020 through .034 (Beth)
+
 Flag has the following options:
 
 * death is an element
