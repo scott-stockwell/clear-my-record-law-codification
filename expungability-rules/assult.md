@@ -11,8 +11,15 @@ Is the statute for assult?
 Is the statute domestic assault?
    Is charges.conviction_charge_type a felony
        Cannot be expunged
+       
+       
+       
+565.130.  Kidnapping, third degree, penalty. — 1.  A person commits the offense of kidnapping in the third degree if he or she knowingly restrains another unlawfully and without consent so as to interfere substantially with his or her liberty.
 
-Is the statue a kidnapping?
+  2.  The offense of kidnapping in the third degree is a class A misdemeanor unless the person unlawfully restrained is removed from this state, in which case it is a class E felony.
+
+
+Is the statue a kidnapping. any in  (565.130, .....)?
    Is charges.conviction_charge_type a felony
        Cannot be expunged
 
@@ -22,8 +29,20 @@ Is the statue a kidnapping?
 
 *What we need to tell pro bono attornies* 
 
+They need to do a sanity check on the resultes.
+
 
 ## Information Needed
+
+Need three list of statutes,  
+
+1. offense of assault
+2. offense of domestic assault
+3. offense of kidnapping
+
+How do we find these statues, for example kidnapping when kidnapping is not in the name?
+
+
 
 We neet to know:
 
