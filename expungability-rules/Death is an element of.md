@@ -2,7 +2,7 @@
 
 ## Law
 
-610.140 2 (4) Any felony offense where death is an element of the offense
+610.140.2(4) Any felony offense where death is an element of the offense
 
 
 ## Plan Speak
@@ -36,7 +36,7 @@ What happens if they "Down Grade" to a M?
 
 When displaying a statute that is not elagible 
 
-"Can not expunge since charge is a felony and death is a element 610.140 2 (4)"
+"Can not expunge since charge is a felony and death is a element 610.140.2(4)"
 
 ## Database
 
