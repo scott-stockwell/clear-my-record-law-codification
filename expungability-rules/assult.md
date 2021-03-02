@@ -2,7 +2,7 @@
 
 ## Law
 
-610.140 2 (5)  Any felony offense of assault; misdemeanor or felony offense of domestic assault; or felony offense of kidnapping;
+610.140.2(5)  Any felony offense of assault; misdemeanor or felony offense of domestic assault; or felony offense of kidnapping;
 
 Is the statute for assult?
    Is charges.conviction_charge_type a misdemeanor or felony
